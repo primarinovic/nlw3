@@ -1,2 +1,3 @@
-# nlw3
- Next Level Week #3 - Discovery - Rocketseat
+# Next Level Week #3 
+---
+ :milky_way: **Discovery** - *Rocketseat* :rocket:
